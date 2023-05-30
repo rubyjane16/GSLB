@@ -12,6 +12,7 @@ DNS에서 보관하고 관리하는 도메인에는 다양한 내용을 매핑�
 하나의 도메인 주소는 하나의 IP주소와 매핑되는데 이때 여러 개의 도메인 주소가 하나의 동일한 IP주소와 연결될 수도 있고 (A), 
 
 여러 개의 IP 주소가 하나의 동일한 도메인에 연결될 수도 있다. (B)
+
 <p align="center">
   <img src="https://github.com/rubyjane16/GSLB/assets/89911621/8a1ba6f0-33a0-4875-868e-efade3595f7b">
 </p>
