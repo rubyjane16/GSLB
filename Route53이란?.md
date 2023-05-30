@@ -137,8 +137,8 @@ Route53을 이용하여 도메인을 설정하면 NS레코드가 자동 생성�
 
 참고: 
 
-[Network] GSLB (Global Server Load Balancing) (tistory.com)
+([Network] GSLB (Global Server Load Balancing) (tistory.com))
 
-11.Route 53이란? (brunch.co.kr)
+(11.Route 53이란? (brunch.co.kr))
 
 
